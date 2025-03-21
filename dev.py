@@ -1,2 +1,2 @@
 print("dev")
-print("merge conflict")
+print("feature conflict")
