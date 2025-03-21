@@ -1,2 +1,2 @@
 print("dev")
-print("merge dev conflict")
+print("final change after merge conflict")
